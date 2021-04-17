@@ -1,0 +1,10 @@
+Major references:
+Cmake> https://riptutorial.com/cmake/example/22391/-hello-world--with-multiple-source-files
+
+Debugging references:
+https://www.geeksforgeeks.org/iterate-over-characters-of-a-string-in-c/
+https://stackoverflow.com/questions/7868936/read-file-line-by-line-using-ifstream-in-c
+https://stackoverflow.com/questions/46995733/how-to-set-cmake-in-order-to-add-txt-files-into-working-directory-as-resource
+
+Comments:
+Came up with the algorithm, no references
